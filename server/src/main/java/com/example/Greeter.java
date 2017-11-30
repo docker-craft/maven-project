@@ -14,7 +14,7 @@ public class Greeter {
 
   /**
    * the Greet method.
-   * @param someone, String name
+   * @param someone the name of a person
    * @return formatted greeting phrases
    */
   public final String greet(final String someone) {
